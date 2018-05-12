@@ -1,0 +1,31 @@
+_repo: The-Boy-s-Book-of-New-Inventions_46232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46232-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maule, Harry E. (Harry Edward)
+    alias: Maule, Harry Edward
+    birthdate: 1886
+    gutenberg_agent_id: '43671'
+    url: http://www.gutenberg.org/2009/agents/43671
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: The aeroplane -- Aeroplane development -- Aeroplanes to-day -- Artificial
+  lightning made and harnessed -- The motion picture machine -- Adventures with motion
+  pictures -- Steel boiled like water and cut like paper -- The Tesla turbine -- The
+  romance of concrete -- The latest automobile engine -- The wireless telegraph up
+  to the minute -- More marvels of science.
+title: The Boy's Book of New Inventions
+url: http://www.gutenberg.org/ebooks/46232
